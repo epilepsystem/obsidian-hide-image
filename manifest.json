@@ -1,0 +1,10 @@
+{
+	"id": "hide-image",
+	"name": "Hide Images",
+	"version": "1.0.1",
+	"minAppVersion": "1.9.1",
+	"description": "Hides or displays images on all pages.",
+	"author": "epilepsystem",
+	"authorUrl": "https://github.com/epilepsystem",
+	"isDesktopOnly": false
+}
